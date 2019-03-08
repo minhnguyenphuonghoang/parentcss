@@ -1,2 +1,4 @@
-var a = document.getElementById('input-schema_name_firstName');
-a.setAttribute('placeholder','just modified this')
+function msg(){  
+	var a = document.getElementById('input-schema_name_firstName');
+	a.setAttribute('placeholder','just modified this')
+}  
